@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For MenuPack
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MenuPack	KEYWORD1	MenuPack
+menu  KEYWORD1 menu
+menu_element  KEYWORD1  menu_element
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+makeMenu	KEYWORD2
+resetMenu	KEYWORD2
+deleteMenuElement	KEYWORD2
+makeMenuElement	KEYWORD2
+initializeValue	KEYWORD2
+addElementToMenu	KEYWORD2
+setActionFunctionFirst	KEYWORD2
+setActionFunctionSecond	KEYWORD2
+setActionFunctionWhenChangeValue	KEYWORD2
+addParentElement	KEYWORD2
+checkButtons	KEYWORD2
+print	KEYWORD2
+getSelectedFromRadio	KEYWORD2
+getSelectedFromCheckbox KEYWORD2
+getValue  KEYWORD2
+getNewValue KEYWORD2
+getMenuElement  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
